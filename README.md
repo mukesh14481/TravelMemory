@@ -12,7 +12,7 @@ Command:
 Install Node.js
 >>curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 Screenshot
-<img width="554" height="312" alt="image" src="https://github.com/user-attachments/assets/f79d3d7f-9349-4a3d-a93b-bfe8a1478ea3" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/f79d3d7f-9349-4a3d-a93b-bfe8a1478ea3" />
 
 
 
