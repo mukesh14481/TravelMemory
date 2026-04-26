@@ -1,3 +1,6 @@
+
+*Please check the docx file attached separately as screenshots are not visible properly in Readme.md*
+
 # TravelMemory
 
 
